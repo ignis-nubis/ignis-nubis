@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Ignis Nubis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignis-nubis)](https://github.com/ignis-nubis/github-readme-stats)
 <!--
 **ignis-nubis/ignis-nubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
