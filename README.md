@@ -1,4 +1,3 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fignis-nubis%2Fhit-counter)
 ### Hi there 👋
 [![Ignis Nubis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignis-nubis)](https://github.com/ignis-nubis/github-readme-stats)
 <!--
